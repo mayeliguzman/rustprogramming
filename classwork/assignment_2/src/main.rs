@@ -13,6 +13,7 @@
             self.major = new_major;
         }
     }
+    
 
 fn main() {
     let mut student = Student::new("Mayeli".to_string(), "Computer Science".to_string());
