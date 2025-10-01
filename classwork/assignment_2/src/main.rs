@@ -20,5 +20,4 @@ fn main() {
     println!("Student Major: {}", student.get_major());
     student.set_major("Computer Science".to_string());
     println!("Major {}", student.get_major());
-    
 }
